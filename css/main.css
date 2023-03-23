@@ -256,8 +256,8 @@
   font-family: var(--theme-font);
   font-style: normal;
   font-weight: 800;
-  font-size: 30px;
-  line-height: 37px;
+  font-size: 26px;
+  line-height: 33px;
   text-align: center;
   text-transform: uppercase;
   color: #FFFFFF;
@@ -437,8 +437,8 @@
 /* Specs */
 .specs {
   background-image: url(../img/specs-bg.png);
-  -webkit-background-size: contain;
-  background-size: contain;
+  -webkit-background-size: cover;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
